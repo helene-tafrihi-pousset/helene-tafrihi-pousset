@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 📣 Open to opportunities from june 2023 on Paris area as Javascript front-end or back-end developper. 
 
-🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Express, PostgreSQL, Sequelize, Git, Tailwind, CSS.
+🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Express, PostgreSQL, Sequelize, Git, Tailwind, SCSS.
 
 😤 After 9 years of html, CSS and Wordpress (I learned alone), I wished to be able to do more things technically for users and for my former company. I was frustrated to not have much time for it. (Also I wanted to learn more about servers and learn coding properly!)
 
