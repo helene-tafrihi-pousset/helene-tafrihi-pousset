@@ -8,11 +8,14 @@
 - My Gitlab (adacraft project contribution): [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
 - Some of my former html/css projects:
 [https://www.asus.fr/event/Vivobook-13-Slate-OLED/](https://www.asus.fr/event/Vivobook-13-Slate-OLED/)
+
 [https://www.asus.fr/event/VivoBook_S14/S432/](https://www.asus.fr/event/VivoBook_S14/S432/)
+
 [https://www.asus.fr/event/ZenBook_Pro_Duo/](https://www.asus.fr/event/ZenBook_Pro_Duo/)
 
 - Some of my former Wordpress projects: 
 [https://www.asus.fr/ASUS_Business/](https://www.asus.fr/ASUS_Business/)
+
 [https://www.asus.fr/ASUS_Education/](https://www.asus.fr/ASUS_Education/)
 
 <!---https://github.com/helene-tafrihi-pousset
