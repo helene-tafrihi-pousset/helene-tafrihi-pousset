@@ -5,8 +5,11 @@
 - 📫 How to reach me: tafrihipousset@gmail.com
 
  ## WORKS
-- My Gitlab (adacraft project contribution): [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
+- My Gitlab (adacraft project contribution):
+- [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
+  
 - Some of my former html/css projects:
+  
 [https://www.asus.fr/event/Vivobook-13-Slate-OLED/](https://www.asus.fr/event/Vivobook-13-Slate-OLED/)
 
 [https://www.asus.fr/event/VivoBook_S14/S432/](https://www.asus.fr/event/VivoBook_S14/S432/)
