@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @helene-tafrihi-pousset.
 - 👀 I’m interested in web development and IT since 2006.
-- 🌱 I’m a junior fullstack developper in Javascript, React & Nodejs
+- 🌱 I’m a junior front-end developper in Javascript, React & TS
 - 💞️ I’m looking to collaborate on inspiring web projects with wonderful people!
 - 📫 How to reach me: tafrihipousset@gmail.com
 
  ## WORKS
-- My Gitlab (adacraft project contribution):
+- Contributions to Kanop company:
+  [https://gitlab.com/helene.tafrihi](https://gitlab.com/helene.tafrihi)
   
+- My personal Gitlab (adacraft project contribution):
   [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
   
 - Some of my former html/css projects:
@@ -34,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 ## ABOUT ME
 
-📣 Open to opportunities from August 2023 on Paris area as Javascript front-end or back-end developper.
+📣 Open to opportunities from April 2024 on Paris area as React front-end developper.
 
 🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Express, PostgreSQL, Sequelize, Git, Tailwind, SCSS.
 
