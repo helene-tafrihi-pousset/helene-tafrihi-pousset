@@ -8,7 +8,7 @@
 - 2023 - 2024: Contributions to Kanop company:
   [https://gitlab.com/helene.tafrihi](https://gitlab.com/helene.tafrihi)
   
-- 2022 - 2023 My personal Gitlab (adacraft project contribution):
+- 2022 - 2023: My personal Gitlab (adacraft project contribution):
   [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
   
 - Some of my former html/css projects:
