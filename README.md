@@ -5,26 +5,17 @@
 - 📫 How to reach me: tafrihipousset@gmail.com
 
  ## WORKS
-- 2023 - 2024: Contributions to Kanop company:
+- 2023 - 2024:
+
+- Contributions to Kanop company:
   [https://gitlab.com/helene.tafrihi](https://gitlab.com/helene.tafrihi)
+  [See app demo](https://app.kanop.io/dashboard/overview?search=)
+
+- [Garden to-do](https://github.com/helene-tafrihi-pousset/garden-to-do) (Team project with React/Node.js) 
   
-- 2022 - 2023: My personal Gitlab (adacraft project contribution):
+- 2022 - 2023: My personal Gitlab (adacraft project contribution to the translation module):
   [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
   
-- Some of my former html/css projects:
-  
-[https://www.asus.fr/event/Vivobook-13-Slate-OLED/](https://www.asus.fr/event/Vivobook-13-Slate-OLED/)
-
-[https://www.asus.fr/event/VivoBook_S14/S432/](https://www.asus.fr/event/VivoBook_S14/S432/)
-
-[https://www.asus.fr/event/ZenBook_Pro_Duo/](https://www.asus.fr/event/ZenBook_Pro_Duo/)
-
-- Some of my former Wordpress projects:
-  
-[https://www.asus.fr/ASUS_Business/](https://www.asus.fr/ASUS_Business/)
-
-[https://www.asus.fr/ASUS_Education/](https://www.asus.fr/ASUS_Education/)
-
 <!---https://github.com/helene-tafrihi-pousset
 helene-tafrihi-pousset/helene-tafrihi-pousset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -36,11 +27,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ABOUT ME
 
-📣 Open to opportunities from April 2024 on Paris area as front or fullstack developper.
+📣 Open to opportunities from April 2024 on Paris area as React front-end developper.
 
-🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Express, PostgreSQL, Sequelize, Git, Tailwind, SCSS.
+🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Express, PostgreSQL, Sequelize, Git, Tailwind, SCSS, Material UI.
 
-😤 After 9 years of html, CSS and Wordpress (I learned alone), I wished to be able to do more things technically for users and for my former company. I was frustrated to not have much time for it. (Also I wanted to learn more about servers and learn coding properly!)
+😤 After 9 years of html, CSS and Wordpress (I learned alone), I wished to be able to do more things technically for users and for my former company. I was frustrated to not have much time for it.
 
 📖 In 2022 I left my previous job and started to get educated again at CNAM and O'Clock school.
 
