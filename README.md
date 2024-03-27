@@ -18,6 +18,7 @@
 ______________________
 - 2022 - 2023:
   My personal Gitlab (adacraft/org project contribution to the translation module in Vue.js):
+  
   [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
 ______________________
 
