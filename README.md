@@ -5,18 +5,22 @@
 - 📫 How to reach me: tafrihipousset@gmail.com
 
  ## WORKS
+ ______________________
 - 2023 - 2024:
 
 - Contributions to Kanop company:
+
   [https://gitlab.com/helene.tafrihi](https://gitlab.com/helene.tafrihi)
   
   [See app demo](https://app.kanop.io/dashboard/overview?search=)
 
-- [Garden to-do](https://github.com/helene-tafrihi-pousset/garden-to-do) (Team project with React/Node.js) 
-  
-- 2022 - 2023: My personal Gitlab (adacraft project contribution to the translation module):
+- [Garden to-do](https://github.com/helene-tafrihi-pousset/garden-to-do) (Team project with React/Node.js)
+______________________
+- 2022 - 2023:
+  My personal Gitlab (adacraft project contribution to the translation module):
   [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
-  
+______________________
+
 <!---https://github.com/helene-tafrihi-pousset
 helene-tafrihi-pousset/helene-tafrihi-pousset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
