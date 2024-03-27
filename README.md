@@ -9,6 +9,7 @@
 
 - Contributions to Kanop company:
   [https://gitlab.com/helene.tafrihi](https://gitlab.com/helene.tafrihi)
+  
   [See app demo](https://app.kanop.io/dashboard/overview?search=)
 
 - [Garden to-do](https://github.com/helene-tafrihi-pousset/garden-to-do) (Team project with React/Node.js) 
