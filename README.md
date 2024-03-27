@@ -17,7 +17,7 @@
 - [Garden to-do](https://github.com/helene-tafrihi-pousset/garden-to-do) (Team project with React/Node.js)
 ______________________
 - 2022 - 2023:
-  My personal Gitlab (adacraft project contribution to the translation module):
+  My personal Gitlab (adacraft/org project contribution to the translation module in Vue.js):
   [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
 ______________________
 
