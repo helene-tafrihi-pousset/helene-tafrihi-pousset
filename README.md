@@ -6,7 +6,7 @@
 
  ## WORKS
  ______________________
-- 2023 - 2024:
+**2023 - 2024:**
 
 - Contributions to Kanop company:
 
@@ -16,7 +16,8 @@
 
 - [Garden to-do](https://github.com/helene-tafrihi-pousset/garden-to-do) (Team project with React/Node.js)
 ______________________
-- 2022 - 2023:
+**2022 - 2023:**
+
   My personal Gitlab (adacraft/org project contribution to the translation module in Vue.js):
   
   [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
