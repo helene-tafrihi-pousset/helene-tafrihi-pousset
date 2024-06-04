@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @helene-tafrihi-pousset.
 - 👀 I’m interested in web development and IT since 2006.
 - 🌱 I’m a junior web developper in Javascript, React, Node.js & TS
+- 🌴 I’m a senior front-end web integrator in HTML, CSS, Wordpress & JQuery
 - 💞️ I’m looking to collaborate on inspiring web projects with wonderful people!
 - 📫 How to reach me: tafrihipousset@gmail.com
 
@@ -18,7 +19,7 @@
 ______________________
 **2022 - 2023:**
 
-  My personal Gitlab (adacraft/org project contribution to the translation module in Vue.js):
+  Contributions to [adacraft](https://www.adacraft.org/) on the translation module in Vue.js:
   
   [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
 ______________________
@@ -38,9 +39,9 @@ You can click the Preview link to take a look at your changes.
 
 🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Express, PostgreSQL, Sequelize, Git, Tailwind, SCSS, Material UI.
 
-😤 After 9 years of html, CSS and Wordpress (I learned alone), I wished to be able to do more things technically for users and for my former company. I was frustrated to not have much time for it.
+😤 After 9 years of html, CSS and Wordpress, I wished to be able to do more things technically for users and for my former company. I was frustrated to not have much time for it.
 
-📖 In 2022 I left my previous job and started to get educated again at CNAM and O'Clock school.
+📖 In 2022 I left my previous job and started to get educated again at CNAM and O'Clock school as a fullstack JS developer.
 
- ✒️ I would be glad to learn more about your web development needs, let's keep in touch!
+ ✒️ I would be glad to learn more about your web development/integration needs, let's keep in touch!
 
