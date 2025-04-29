@@ -6,6 +6,14 @@
 - 📫 How to reach me: tafrihipousset@gmail.com
 
  ## WORKS
+  ______________________
+**2024 - 2025:**
+
+- Contributions to Saatchi & Saatchi company:
+
+  [https://github.com/helene-tafrihi]((https://github.com/helene-tafrihi))
+  
+______________________
  ______________________
 **2023 - 2024:**
 
@@ -35,13 +43,13 @@ You can click the Preview link to take a look at your changes.
 
 ## ABOUT ME
 
-📣 Open to opportunities from April 2024 on Paris area as React front-end developper.
+📣 React front-end developper and CSS web integrator.
 
-🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Express, PostgreSQL, Sequelize, Git, Tailwind, SCSS, Material UI.
+🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Express, PostgreSQL, MySQL, Sequelize, Git, twig, Tailwind, SCSS, Material UI.
 
 😤 After 9 years of html, CSS and Wordpress, I wished to be able to do more things technically for users and for my former company. I was frustrated to not have much time for it.
 
 📖 In 2022 I left my previous job and started to get educated again at CNAM and O'Clock school as a fullstack JS developer.
 
- ✒️ I would be glad to learn more about your web development/integration needs, let's keep in touch!
+ ✒️ I would be glad to learn more about your web development/web integration needs, let's keep in touch!
 
