@@ -11,7 +11,7 @@
 
 - Contributions to Saatchi & Saatchi company:
 
-  [https://github.com/helene-tafrihi]((https://github.com/helene-tafrihi))
+  [https://github.com/helene-tafrihi](https://github.com/helene-tafrihi)
 ______________________
 **2023 - 2024:**
 
