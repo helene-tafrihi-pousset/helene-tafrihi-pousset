@@ -6,7 +6,7 @@
 - 📫 How to reach me: tafrihipousset@gmail.com
 
  ## WORKS
-______________________
+
 **2024 - 2025:**
 
 - Contributions to Saatchi & Saatchi company:
