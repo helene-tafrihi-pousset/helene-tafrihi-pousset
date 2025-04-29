@@ -6,15 +6,13 @@
 - 📫 How to reach me: tafrihipousset@gmail.com
 
  ## WORKS
-  ______________________
+______________________
 **2024 - 2025:**
 
 - Contributions to Saatchi & Saatchi company:
 
   [https://github.com/helene-tafrihi]((https://github.com/helene-tafrihi))
-  
 ______________________
- ______________________
 **2023 - 2024:**
 
 - Contributions to Kanop company:
