@@ -30,18 +30,13 @@ ______________________
   [https://gitlab.com/Koupi24](https://gitlab.com/Koupi24)
 ______________________
 
-<!---https://github.com/helene-tafrihi-pousset
-helene-tafrihi-pousset/helene-tafrihi-pousset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ## ABOUT ME
 
 📣 React front-end developper and front web integrator.
 
-🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Payload CMS, Express, PostgreSQL, MySQL, Sequelize, Git, twig, Tailwind, SCSS, ShadCn, BaseUi, Material UI.
+🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Payload CMS, Express, PostgreSQL, MySQL, Sequelize, Git, twig, Tailwind, SCSS, Shadcn, Radix, BaseUi, Material UI.
 
-😤 After 9 years of html, CSS and Wordpress, I wished to be able to do more things technically for users and for my former company. I was frustrated to not have much time for it.
+😤 After 9 years of HTML, CSS and Wordpress, I wished to be able to do more things technically for users and for my former company. I was frustrated to not have much time for it.
 
 📖 In 2022 I left my previous job and started to get educated again at CNAM and O'Clock school as a fullstack JS developer.
 
