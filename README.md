@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @helene-tafrihi-pousset.
 - 👀 I’m interested in web development and IT since 2006.
-- 🌱 I’m a junior web developper in Javascript, React, Node.js & TS
+- 🌱 I’m a front-end web developper in Javascript, React, Node.js & TS
 - 🌴 I’m a senior front-end web integrator in HTML, CSS, Wordpress & JQuery
 - 💞️ I’m looking to collaborate on inspiring web projects with wonderful people!
 - 📫 How to reach me: tafrihipousset@gmail.com
 
  ## WORKS
 
-**2024 - 2025:**
+**2024 - now:**
 
 - Contributions to Saatchi & Saatchi company:
 
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 📣 React front-end developper and CSS web integrator.
 
-🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Express, PostgreSQL, MySQL, Sequelize, Git, twig, Tailwind, SCSS, Material UI.
+🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Payload CMS, Express, PostgreSQL, MySQL, Sequelize, Git, twig, Tailwind, SCSS, ShadCn, BaseUi, Material UI.
 
 😤 After 9 years of html, CSS and Wordpress, I wished to be able to do more things technically for users and for my former company. I was frustrated to not have much time for it.
 
