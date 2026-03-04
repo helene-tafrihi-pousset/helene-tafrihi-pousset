@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @helene-tafrihi-pousset.
 - 👀 I’m interested in web development and IT since 2006.
 - 🌱 I’m a front-end web developper in Javascript, React, Node.js & TS
-- 🌴 I’m a senior front-end web integrator in HTML, CSS, Wordpress & JQuery
+- 🌴 I’m a senior web integrator in HTML, CSS, Wordpress & JQuery
 - 💞️ I’m looking to collaborate on inspiring web projects with wonderful people!
 - 📫 How to reach me: tafrihipousset@gmail.com
 
- ## WORKS
+## WORKS
 
 **2024 - now:**
 
@@ -35,13 +35,9 @@ helene-tafrihi-pousset/helene-tafrihi-pousset is a ✨ special ✨ repository be
 You can click the Preview link to take a look at your changes.
 --->
 
-## LANGUAGES
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=helene-tafrihi-pousset)](https://github.com/helene-tafrihi-pousset/github-readme-stats)
-
 ## ABOUT ME
 
-📣 React front-end developper and CSS web integrator.
+📣 React front-end developper and front web integrator.
 
 🚀 I work with Javascript, Node.js, React, Redux, TypeScript, Payload CMS, Express, PostgreSQL, MySQL, Sequelize, Git, twig, Tailwind, SCSS, ShadCn, BaseUi, Material UI.
 
